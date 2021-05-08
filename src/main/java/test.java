@@ -8,4 +8,7 @@ public class test {
 	public void forEach(){
 
 	};
+	public void forEach22(){
+
+	};
 }
