@@ -6,6 +6,6 @@
  */
 public class test {
 	public void forEach(){
-
-	};
+		System.out.println("333");
+	}
 }
