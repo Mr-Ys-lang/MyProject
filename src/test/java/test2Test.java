@@ -14,6 +14,7 @@ public class test2Test {
 		list.add("1");
 		list.add("2");
 		list.add("3");
+		list.add("4");
 		for(String temp : list){
 			System.out.println(temp);
 			if("3".equals(temp)){
